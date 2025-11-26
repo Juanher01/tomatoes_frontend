@@ -1,5 +1,5 @@
 // src/config/constants.js
-export const API_BASE = "https://aside-ferry-shall-glory.trycloudflare.com ";
+export const API_BASE = "https://aside-ferry-shall-glory.trycloudflare.com";
 
 export const INSTANCE_COLORS = [
   "#818cf8",
